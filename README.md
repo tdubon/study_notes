@@ -6,3 +6,6 @@ but it can supplement or facilitate your own review.
 #1
 Mastering spaCy, Duygu Altinok 
 
+#2
+Blog Workbook - Central Tendencies
+
