@@ -7,5 +7,8 @@ but it can supplement or facilitate your own review.
 Mastering spaCy, Duygu Altinok 
 
 #2
-Blog Workbook - Central Tendencies
+Blog Notebook - Central Tendencies
+
+#3
+Topic Modeling with Gensim LDA and BERTopic Notebook
 
